@@ -1,6 +1,6 @@
 ## Aniruddh Ojha
 
-I'm a Maker's Graduate with a background in Science Communication, Motion Design and Biochemistry. In th past few months, I've transitioned from being a freelance Motion Design and Videographer into a Full Stack software developer thanks to Maker's Academy. My passion for tech stems from my constant need to create new things!
+I'm a Maker's Graduate with a background in Science Communication, Motion Design and Biochemistry. In the past few months, I've transitioned from being a freelance Motion Design and Videographer into a Full Stack software developer thanks to Maker's Academy. My passion for tech stems from my constant need to create new things!
 
 I was first interested in the world of software development while writing small little scripts in Adobe After Effects (a program I use to make motion graphics and 2D animation). It was so useful to automate this and that in order to make my workflow more efficient. 
 
