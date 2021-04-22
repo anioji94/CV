@@ -4,7 +4,7 @@ I'm a Maker's Graduate with a background in Science Communication, Motion Design
 
 I was first interested in the world of software development while writing small little scripts in Adobe After Effects (a program I use to make motion graphics and 2D animation). It was so useful to automate this and that in order to make my workflow more efficient. 
 
-Now that I've graduated from Maker's with a few projects under my belt, I'd really like to keep that momentum going by starting a couple small projects which I can tinker with. My aim as a graduate is to consolidate my knowledge and understanding while maintaining my 
+Now that I've graduated from Maker's with a few projects under my belt, I'd really like to keep that momentum going by starting a couple small projects which I can tinker with. My aim as a graduate is to consolidate my knowledge and understanding so that I can be a reliable new recruit at a tech firm! 
 
 
 
