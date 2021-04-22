@@ -36,7 +36,7 @@ Office Assistant
 #### Project Management
 
 - Through Maker's Academy, I have been involved with managing Projects with a randomly selected group of teammates. We would be set a task which needs to be completed within a few days. Given our short timeframe, it was imperative that we learn a new programming framework and make something presentable in that short timeframe.
-- The trick was to spend a couple days at the beginning planning our goals and making them acheiveable without compromising quality. Sticking to a few goals and aiming to make a polished final draft is key.
+- The trick was to spend a couple days at the beginning planning our goals and making them acheivable without compromising quality. Sticking to a few goals and aiming to make a polished final draft is key.
 
 #### Self Learning
 
@@ -54,7 +54,7 @@ As a Motion Designer and Videographer without a formal background in animation, 
 #### Makers Academy (04/01/21 to 23/04/21)
 
 - OOP, TDD, MVC, DDD
-- Agile/XP
+- Agile
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine, Jest
 - React Native, Expo
