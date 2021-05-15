@@ -40,8 +40,6 @@ Office Assistant
 
 #### Self Learning
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
 As a Motion Designer and Videographer without a formal background in animation, I had to pick up a lot of information myself. I taught myself 2D motion design on After Effects using Youtube tutorials, Skillshare courses and through lots of Googling. Fuelled by my desire to understand and learn, I used resources available to me in order to complete projects and make new things. Throughout the Pandemic, I've been running webinars using OBS, a software that I hadn't used previously. 
 
 - I ran several Webinars for various companies to help them reach a wider audeince
